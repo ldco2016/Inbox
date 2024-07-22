@@ -6,12 +6,12 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Luis D. Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
+  "author": "Daniel Cortes <renaissance.scholar2012@gmail.com> (http://www.dancortes.com/)",
   "license": "MIT",
   "dependencies": {
-    "ganache-cli": "6.0.3",
-    "mocha": "5.0.1",
+    "ganache": "^7.9.2",
+    "mocha": "^5.0.1",
     "solc": "0.4.20",
-    "web3": "1.0.0-beta.26"
+    "web3": "^1.0.0-beta.26"
   }
 }
